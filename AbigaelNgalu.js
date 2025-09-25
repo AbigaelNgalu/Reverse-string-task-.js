@@ -6,4 +6,4 @@ function reverseString(str) {
   return reversedStr;
 }
 
-console.log(reverseString("Abigael Ngalu")); // "ulagN leagibA
+console.log(reverseString("Abigael Ngalu")); // Output: "ulagN leagibA"
